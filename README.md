@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
