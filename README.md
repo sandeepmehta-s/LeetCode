@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
