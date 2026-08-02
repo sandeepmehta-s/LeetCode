@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0344-reverse-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
