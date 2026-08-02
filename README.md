@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -64,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0015-3sum) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
