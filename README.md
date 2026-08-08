@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0344-reverse-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0344-reverse-string) |
@@ -144,4 +146,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
