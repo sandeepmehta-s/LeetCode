@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
