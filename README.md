@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Enumeration
 |  |
