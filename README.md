@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1920-build-array-from-permutation](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
