@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2029-stone-game-ix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
