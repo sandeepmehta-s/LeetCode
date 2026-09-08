@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0051-n-queens) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -278,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
