@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
