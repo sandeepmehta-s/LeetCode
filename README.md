@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
