@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
