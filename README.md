@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2206-divide-array-into-equal-pairs](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -281,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -321,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-kumar-mehta/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
